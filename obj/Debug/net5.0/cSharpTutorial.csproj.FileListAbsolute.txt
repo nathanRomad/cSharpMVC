@@ -1,0 +1,15 @@
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/cSharpTutorial.deps.json
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/cSharpTutorial.runtimeconfig.json
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/cSharpTutorial.runtimeconfig.dev.json
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/cSharpTutorial.dll
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/ref/cSharpTutorial.dll
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/bin/Debug/net5.0/cSharpTutorial.pdb
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.csproj.AssemblyReference.cache
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.AssemblyInfoInputs.cache
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.AssemblyInfo.cs
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.csproj.CoreCompileInputs.cache
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.dll
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/ref/cSharpTutorial.dll
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.pdb
+/Users/nathanhamilton/Documents/coding projects/c#basics/cSharpTutorial/obj/Debug/net5.0/cSharpTutorial.genruntimeconfig.cache
